@@ -1,7 +1,10 @@
 # plurisynth
 
-## learn electrical engineering using synthesizers
+## Learn - Electrical engineering with synthesizers
+### Solve circuits and power systems using sound
 
-## explore power systems through sonification
+## Build - Complex networks using simple modules
+### Modular interface allows design of pluralistic systems
 
-## build complex networks through simple principals
+## Explore - Power systems via sonification
+### Dissolve barriers between physics and intuition through synesthetic cybernetics
