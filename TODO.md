@@ -4,8 +4,8 @@
 
 
 - [x] Develop initial plan
-- [x] Figure out dsp stack
-- [ ] Figure out front end stack
+- [x] Figure out dsp stack - Rust compiled for Web Assemby using the Glicol repo
+- [ ] Figure out front end stack -- likely Flutterflow
 - [ ] Create oscillator object
 - [ ] Connect front end to dsp
 - [ ] Clean up front end
