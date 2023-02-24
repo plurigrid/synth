@@ -40,3 +40,20 @@
 ## Phase 6 - Connecting to Chat Agents
 
 ## Phase 7 - Probably Something to do with Smart Contracts
+
+# Deliverables:
+- Synth app
+- Flutter front end
+- Wasm backend
+- Grid based UI
+- Modular
+- Extensible
+- Intuitive drag and drop of oscillators with frequency and amplitude parameters
+- Oscillators can be connected to other modules as input
+- Initial command line oscillator
+- Live colaberation in seprate contract
+
+# Dream:
+- Able to display whole grid
+- Power station modules
+- Integrate with virtual power plants
